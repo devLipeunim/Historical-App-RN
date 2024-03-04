@@ -8,11 +8,11 @@
 
 ### on Andriod device
 
-#### exp://u.expo.dev/update/0b768f56-b1c0-46d6-b57f-5ff26ff2b816
+#### exp://u.expo.dev/update/c239210d-3630-46fd-9de4-a77eb74941cc
 
 ### on iOS device
 
-#### exp://u.expo.dev/update/095820e9-3738-41f0-9259-d4501034e5dc
+#### exp://u.expo.dev/update/8112837b-ad7a-4bcb-b27d-95382cd9cea9
 
 # Lipeunim 🚀🚀
 
